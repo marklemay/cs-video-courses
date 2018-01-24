@@ -502,6 +502,7 @@ Courses
 - [MOOC - Automata - Jeffrey Ullman - Coursera](https://www.youtube.com/playlist?list=PL82C4B8475CAC3F95)
 - [CS581 Theory of Computation - Portland State University](http://web.cecs.pdx.edu/~harry/videos/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
 - [Theory of Computation - Fall 2011 UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
+- [Theory of Computation - Shai Simonson](https://www.youtube.com/playlist?list=PL7HjUNIdk93ThXvz2Oa_g30Jt3Owwm4HZ) ([Notes](http://www.aduni.org/courses/theory/index.php?view=cw))
 - [TDA555 Introduction to Functional Programming - Chalmers University of Technology](http://www.cse.chalmers.se/edu/course/TDA555/index.html) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLIQ9jYeUxhgqEnjey91yRTITaXqZQy3Ta))
 - [Philip Wadler Haskell lecture recordings](https://www.youtube.com/playlist?list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3)
 - [Functional Programming - University of Edinburgh - 2016-17](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
